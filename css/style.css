@@ -1,0 +1,104 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.first_1_container{
+    background-color: #11009E;
+    color: #fff;
+    padding:10px 0px 10px 0px;
+}
+
+.navigation_panel .container-fluid{
+    padding: 20px 10%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+
+}
+
+.custom-bg-green {
+    background-color: #ffffff;
+    color: black;
+    font-weight: 600;
+
+}
+
+.main-content{
+    padding: 50px 0px 50px 0px;
+    background-color: #11009E;
+    color: #fff;
+
+}
+
+.original-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    text-decoration: none;
+    color: #333333;
+    font-size: 18px;
+    border-radius: 0px;
+    width: 200px;
+    height: 40px;
+    font-weight: bold;
+    border: 2px solid #333333;
+    transition: 0.3s;
+    box-shadow: 5px 5px 0px 0px rgba(51, 51, 51, 1);
+    background-color: #ffffff;
+  }
+  
+  .original-button:hover {
+    box-shadow: 0 0 #333;
+    color: #ffffff;
+    background-color: #6528F7;
+  }
+
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+#myBlockElement {
+    display: inline;
+}
+.card{
+    border-radius: 0px;
+    border: 0px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    transition: 0.3s;
+    
+}
+.card:hover{
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+}
+
+.second-container{
+    padding: 50px 0px 50px 0px;
+    background-color: #fff;
+    color: #000;
+}
+
+.third-container{
+    padding: 50px 0px 50px 0px;
+    background-color:#EDE4FF;
+    color: #000;
+}
+
+.avatar {
+    width: 250px;
+    height: 250px;
+    border-radius: 70%;
+    object-fit: cover;
+  }
+
+.footer{
+    padding: 50px 20% 50px 20%;
+    background-color: black;
+    color: #fff;
+}
+  
